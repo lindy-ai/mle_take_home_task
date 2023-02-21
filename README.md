@@ -23,9 +23,9 @@ Complete schema of ```activity``` dataset contains columns:
 
 # problem
 
-The target of this task is to build a machine leanring model to identify the churns. Churns are players are not seen after 7th day from the registration
+The target of this task is to build a machine learning model to identify the churns. Churns are players are not seen after 7th day from the registration
 
-This is a test of end-to-end complete life-cycle of a machine leanring model building. The following items are suggested to be included in the deliverable:
+This is a test of end-to-end complete life-cycle of a machine learning model building. The following items are suggested to be included in the deliverable:
 
 * data example generation
 
