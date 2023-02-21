@@ -33,7 +33,7 @@ This is a test of end-to-end complete life-cycle of a machine leanring model bui
 
 * splitting of training/validation/test set
 
-* parameter tuning
+* model selection and parameter tuning
 
 * model training and evaluation 
 
