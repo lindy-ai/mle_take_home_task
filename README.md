@@ -19,3 +19,10 @@ Complete schema of ```activity``` dataset contains columns:
 * time_spent_seconds (integer) - Total time spent playing during the day
 * ads_impressions (integer) - Total number of seen ads during the day
 * ads_clicks (integer) - Total number of clicked ads during the day
+
+
+# problem
+
+The target of this task is to build a machine leanring model to identify the churns
+
+Churns are players are not seen after 7th day from the registration
