@@ -49,4 +49,6 @@ you are supposed to submit the following items:
 
 3. a docker image containing the model files and service of the model. The docker image should be available at https://hub.docker.com/ ready for ```docker pull```
 
-4. a document describing the process of modeling training and how to use the service of the model 
+4. a document describing the process of modeling training and how to use the service of the model, and 
+
+5. a writeup detailing your choice of performance metrics & methods of model evaluation
