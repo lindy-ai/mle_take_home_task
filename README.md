@@ -26,3 +26,28 @@ Complete schema of ```activity``` dataset contains columns:
 The target of this task is to build a machine leanring model to identify the churns
 
 Churns are players are not seen after 7th day from the registration
+
+This is a test of end-to-end complete life-cycle of a machine leanring model building. The following items are suggested to be included in the deliverable:
+
+
+* label and feature engineering
+
+* splitting of training/validation/test set
+
+* parameter tuning
+
+* model training and evaluation 
+
+* model deployment and service
+
+# submission
+
+you are supposed to submit the following items:
+
+1. jupyter notebooks of data processing, model training, and model evaluation
+
+2. performance metrics of model training and evaluation 
+
+3. a docker image containing the model files and service of the model. The docker image should be available at https://hub.docker.com/ ready for docker pull
+
+4. a document describing the process of modeling training and how to use the service of the model 
