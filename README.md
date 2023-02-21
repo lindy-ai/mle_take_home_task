@@ -48,6 +48,6 @@ you are supposed to submit the following items:
 
 2. performance metrics of model training and evaluation 
 
-3. a docker image containing the model files and service of the model. The docker image should be available at https://hub.docker.com/ ready for docker pull
+3. a docker image containing the model files and service of the model. The docker image should be available at https://hub.docker.com/ ready for ```docker pull```
 
 4. a document describing the process of modeling training and how to use the service of the model 
